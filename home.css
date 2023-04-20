@@ -132,4 +132,7 @@ a{
     .book{
         padding:0;
     }
+    .link li{
+     padding:0;
+    }
 }
